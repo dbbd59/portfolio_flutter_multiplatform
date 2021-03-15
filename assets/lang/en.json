@@ -1,0 +1,15 @@
+{
+    "main_app_bar_title": "dbbd59",
+    "bottom_nav_bar_first": "Home",
+    "bottom_nav_bar_second": "GitHub",
+    "bottom_nav_bar_third": "News",
+    "bottom_nav_bar_fifth": "About me",
+    "login_username": "Username",
+    "login_username_error": "Inserisci un testo",
+    "login_password": "Password",
+    "login_password_error": "Inserisci un testo",
+    "login_button": "LOGIN",
+    "login_dialog_error_title": "Error",
+    "login_dialog_error_message": "Errore di autenticazione",
+    "login_dialog_error_button": "OK"
+}
